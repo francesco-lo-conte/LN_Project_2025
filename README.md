@@ -30,7 +30,7 @@ The entire design is synchronous, synthesizable, and robustly tested to handle v
 
 The design follows a modular **FSM-controlled Datapath** architecture, clearly separating the control logic (FSM) from the data processing units (datapath). This makes the design clean, scalable, and easy to verify.
 
-![Hardware Architecture Diagram](Hardware_architecture.png)
+<img width="1362" height="408" alt="Hardware_acrhitecture" src="https://github.com/user-attachments/assets/e5c4f140-9342-4a19-9b84-966fe254cef6" />
 
 ### Datapath Components
 
